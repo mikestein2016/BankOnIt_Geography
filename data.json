@@ -37,8 +37,8 @@
 [1,"FBI4",1,"Sedimentary rocks are formed by both mechanical and chemical weathering processes.",false,false,881851156257143,false,86],
 
 [1,"Q5",1,"Mass wasting, or mass movement, is...",false,false,700620221486593,false,87],
-[1,"Q5A1",1,"the failure and downslope movement of rock or unconsolidated materials in response to gravity.",false,false,174677241162319,false,88],
-[1,"Q5A2",1,"the process by which water seeps into cracks in a rock, expands on freezing, and thus enlarges the cracks.",false,false,406359767438583,false,89],
+[1,"Q5A1",1,"the failure and downslope movement of rock in response to gravity.",false,false,174677241162319,false,88],
+[1,"Q5A2",1,"when water seeps into cracks in a rock, expands on freezing, & enlarges the cracks.",false,false,406359767438583,false,89],
 [1,"Q5A3",1,"the accumulation and decay of organic matter.",false,false,554791686989244,false,90],
 [1,"Q5A4",1,"usually driven by water that removes sediment from the place of weathering.",false,false,300272680744372,false,91],
 [1,"Ans5",0,1,false,false,977509897820878,false,92],
